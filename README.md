@@ -86,6 +86,15 @@ Class Library: Represents the full library system.
       Books: title author copiesAvailable
       Members: memberID name
 
+Constraints & Limits
+   
+    Max 50 books
+    Max 150 members
+    Max 15 copies per book
+    Max 15 total borrowed copies per member
+
+
+
 Input Format
   
   The system processes structured commands:
