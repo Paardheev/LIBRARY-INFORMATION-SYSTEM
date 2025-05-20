@@ -136,6 +136,7 @@ Input Format
  Output Format
 
     Book details:
+
       title author
     
     Member details:
@@ -154,3 +155,4 @@ Input Format
       "Invalid request! Copy of book exceeds total copies"
       "Invalid request! Count becomes negative"       
               
+  [Library Management System.pdf](https://github.com/user-attachments/files/20344876/Library.Management.System.pdf)
