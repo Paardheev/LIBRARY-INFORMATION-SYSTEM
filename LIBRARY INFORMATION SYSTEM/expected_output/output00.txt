@@ -1,0 +1,29 @@
+Invalid request! Book with same isbn already exists
+Invalid request! Member with same id already exists
+Invalid request! Borrow limit exceeded
+Invalid request! Copy of book not available
+CPPProgramming RupeshNasre
+CS24M015 Debasmita CS2810 1
+CS24M015 Debasmita CS2910 1
+CPPProgramming RupeshNasre 0
+UnknownTitle UnknownAuthor 0
+CPPProgramming RupeshNasre 1
+CS24M015 Debasmita
+CS23M041 Neel
+Invalid request! Book not borrowed
+CPPProgramming RupeshNasre 2
+UnknownTitle UnknownAuthor 0
+CPPProgramming RupeshNasre 1
+CS24M015 Debasmita
+CS23M041 Neel
+CPPProgramming RupeshNasre 0
+UnknownTitle UnknownAuthor 0
+CPPProgramming RupeshNasre 1
+CS24M015 Debasmita
+CS23M041 Neel
+Invalid request! Count becomes negative
+CPPProgramming RupeshNasre 0
+UnknownTitle UnknownAuthor 0
+CPPProgramming RupeshNasre 1
+CS24M015 Debasmita
+CS23M041 Neel
